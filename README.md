@@ -4,7 +4,7 @@ GET BETTER
 <html lang="ar">
 <head>
   <meta charset="UTF-8">
-  <title>حاسبة السعرات - تصميم عصري</title>
+  <title>حاسبة السعرات </title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
